@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Rafael Costa
 
-Me chamo Rafael Costa, tenho 29 anos. Tenho uma base sólida de **8+ anos em Infraestrutura de TI** e atuo na especialização e otimização de ambientes Linux/VMware. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na Faculdade Severino Sombra (UNIVASSOURAS - Maricá)**.
+Me chamo Rafael Costa, tenho 29 anos. Tenho uma base sólida de **5+ anos em Infraestrutura de TI** e atuo na especialização e otimização de ambientes Linux/VMware. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na Faculdade Severino Sombra (UNIVASSOURAS - Maricá)**.
  
 Sou apaixonado por tecnologia e utilizo minha experiência em otimização para impulsionar o **Desenvolvimento Web (React/Python)** e Automação. Foco em criar soluções de **alta performance** e **escalabilidade**.
 
