@@ -1,10 +1,20 @@
 ## 👩🏻‍💻 Rafael Costa
 
-Me chamo Rafael Costa, tenho 29 anos. Tenho uma base sólida de **5+ anos em Infraestrutura de TI** e atuo na especialização e otimização de ambientes Linux/VMware. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na Faculdade Severino Sombra (UNIVASSOURAS - Maricá)**.
- 
-Utilizo minha experiência em otimização para impulsionar o **Desenvolvimento Web (React/Python)** e Automação. Foco em criar soluções de **alta performance** e **escalabilidade**.
+Engenheiro de Software | Robótica e Automação, IoT & Visão Computacional
 
-Você pode conferir meus projetos e minha trajetória no meu Portfólio
+Sou Engenheiro de Software, com 30 anos, focado em construir a ponte entre o mundo físico e o digital. Possuo uma base sólida de mais de 5 anos em Infraestrutura de TI (Linux/VMware), experiência que utilizo hoje para arquitetar ecossistemas inovadores, seguros e de alta performance.
+
+Meu foco atual é o desenvolvimento end-to-end de soluções autônomas: desde o controle de hardware com C/C++, passando por arquiteturas web robustas com Python e Next.js, até a integração de Inteligência Artificial para percepção de ambiente.
+
+Hardware & Core: Controle físico de precisão para projetos de Robótica e IoT utilizando C/C++.
+
+Visão Computacional & IA: Implementação de modelos para rastreamento e processamento de imagens em tempo real (Python, YOLO, MediaPipe, OpenCV).
+
+Engenharia Web & Back-end: Desenvolvimento de APIs e lógicas escaláveis (Python, TypeScript, Next.js).
+
+Automação Avançada: Orquestração de workflows complexos e eventos assíncronos utilizando n8n para integrar hardwares, sistemas web e IA.
+
+Interfaces (IoT): Criação de painéis dinâmicos (JavaScript/AJAX) para telemetria e controle físico com latência mínima.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rafaelpereiracostaa" target="_blank">
